@@ -58,6 +58,7 @@ These are some technologies and tools that I used on projects in a production en
 
 #### Other
 
+![Confluence](https://img.shields.io/badge/confluence-%230A0FFF.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,7 +66,7 @@ These are some technologies and tools that I used on projects in a production en
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Teams](https://img.shields.io/badge/teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Xampp](https://img.shields.io/badge/xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
