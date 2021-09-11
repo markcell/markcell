@@ -75,5 +75,6 @@ These are some technologies and tools that I used on projects in a production en
 
 ###### You can find me on:
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/markcell)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/celsomarques/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/markcell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/celsomarques/)
+[![Twitter](https://img.shields.io/badge/Twitter-379bf0?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/celsovski)
