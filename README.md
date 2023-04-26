@@ -1,8 +1,8 @@
 # Hi, I'm Celso! 🤖
 
-I'm a software developer with experience in web based applications and technologies such as JavaScript, HTML and CSS on the frontend and Ruby, PHP and MySQL on the backend.
+I'm a software developer with experience in web-based applications and technologies such as JavaScript, HTML and CSS on the frontend and Ruby, PHP and MySQL on the backend.
 
-I'm always ready to try and learn new technologies and best practices to improve the way of working. I also like to explore UI and UX to match the work done behind the scenes perfectly.
+I'm always ready to try and learn new technologies and best practices to improve my working methods. I also like to explore UI and UX to perfectly match the work behind the scenes.
 
 ---
 
